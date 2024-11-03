@@ -15,16 +15,18 @@ I'm a **Fullstack Developer** with a passion for innovative solutions with **Spr
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📈 GitHub Stats
-![Akansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akanshjatav&show_icons=true&theme=default)
+![Akansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akanshjatav&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanshjatav&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanshjatav&layout=compact&theme=default)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akansh-jatav-a92492227/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akanshjatav129@gmail.com)
 
 ## 🔥 Projects
-- **[Project 1](https://github.com/akanshjatav/Sampark)** - Brief description of your project.
+- **[Sampark.org](https://github.com/Akanshjatav/Sampark)** 
+- **[Indian Diet Recommendation System](https://github.com/Akanshjatav/Indian-Diet-Recommendation-System)** 
+
 
 
 ---
